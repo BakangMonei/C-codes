@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626820879 source:c:\users\cse20-018\desktop\bk\codes\c codes\calculatorapplication\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+
